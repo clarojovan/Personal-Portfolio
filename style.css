@@ -1,0 +1,82 @@
+html {
+    font-size: 16px
+}
+
+p {
+    font-size: 1rem;
+}
+
+.btn {
+    font-size: 0.875rem;
+}
+
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.btn-want {
+    background-color: black;
+}
+
+.btn:hover {
+    transform: translateY(-5px);
+}
+
+.button:hover {
+    transform: translateY(-5px)
+}
+
+.socials:hover {
+    transform: translateY(-5px);
+}
+
+.home-icon {
+    float: right;
+
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
+
+.responsive-img {
+  max-width: 100%; 
+  height: auto;  
+  display: block;
+}
+
+.btn-socials {
+    font-size: 13px;
+}
+
+.start {
+    font-size: 15px;
+}
+
+.btn-want {
+    font-size: 13px;
+}
+
+/*.img-head {
+    position: relative;
+    width: 360px; 
+    max-width: 100%;
+}
+
+.img-head .image-hover {
+    position: absolute;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.img-head:hover .image-hover {
+    opacity: 1;
+}
+
+
